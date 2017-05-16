@@ -16,7 +16,7 @@ export class Hero {
 })
 
 export class AppComponent {
-    title = 'Tour of Heroes';
+    title = 'Tour of Heroes 2';
     hero: Hero = {
     name: 'Windstorm',
     id: 1
